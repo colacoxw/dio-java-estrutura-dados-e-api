@@ -1,8 +1,5 @@
 package main.java;
 
-import main.java.one.digitalinnovation.No;
-import main.java.one.digitalinnovation.NoDuplo;
-
 public class ListaDuplamenteEncadeada<T> {
 
   private NoDuplo<T> primeiroNo;

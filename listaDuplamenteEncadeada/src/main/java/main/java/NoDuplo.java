@@ -1,4 +1,4 @@
-package main.java.one.digitalinnovation;
+package main.java;
 
 public class NoDuplo<T> {
   private T conteudo;
