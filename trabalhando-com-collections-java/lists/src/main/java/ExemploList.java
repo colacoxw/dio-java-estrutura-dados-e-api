@@ -79,6 +79,6 @@ public class ExemploList {
         System.out.println("Apague todas a lista! ");
         notas.clear();
 
-        System.out.println("Confira se a lista está vazia: " notas.isEmpty());
+        System.out.println("Confira se a lista está vazia: " + notas.isEmpty());
     }
 }
